@@ -70,10 +70,7 @@ header a{
         rgba(68, 245, 236, 0.603),
         rgba(0,0,0,0.5)
     )
-    ,url("media/hero.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
+   
 }
 
 #hero h1{
@@ -268,10 +265,7 @@ header a{
         rgba(68, 245, 236, 0.603),
         rgba(0,0,0,0.5)
     )
-    ,url("media/hero.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
+  
 }
 
 
